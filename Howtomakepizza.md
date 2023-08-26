@@ -7,7 +7,13 @@ Servir en la mesa y comer
 Hola
 Comprar la pizza
 Meterla al microondas
-Servir
-generar factura
-cobro al cliente
-liempieza de la mesa
+Servir 
+## como preparar una pizza 
+preparar los ingredientes
+pre alistar la masa
+picar los ingredientes 
+integrar a la pizza 
+hornear la pizza 
+porcionar la pizza 
+servir e emplatar pizza 
+hacer servcio a la mesa 
